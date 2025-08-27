@@ -16,10 +16,8 @@ Crie o arquivo comentarios.txt com algum texto, incluindo reticências ... ou es
 ### Questão 4 – Leitura de jogadores e times
 Crie o arquivo jogadores_times.txt com linhas no formato nome, time, por exemplo:
 
-Neymar, PSG
-
-Messi, Inter Miami
-
+Neymar, PSG<br>
+Messi, Inter Miami<br>
 Cristiano Ronaldo Al Nassr
 
 ### Questão 5 – Mesclagem de listas

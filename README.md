@@ -24,14 +24,14 @@ Cristiano Ronaldo Al Nassr
 Passos para testar:
 Crie os arquivos lista_a.txt e lista_b.txt com listas de itens, um item por linha. Por exemplo:
 
-lista_a.txt:
-banana
-maçã
+lista_a.txt:<br>
+banana<br>
+maçã<br>
 abacaxi
 
-lista_b.txt:
-pera
-maçã
+lista_b.txt:<br>
+pera<br>
+maçã<br>
 uva
 
 ### Questão 6 – Contagem de palavras distintas

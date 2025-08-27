@@ -1,6 +1,6 @@
 # Exercicios-Python-RAD
 
-## Sobre os exercícios de 27_do_08.py
+## Sobre os exercícios de [27_do_08.py](https://github.com/DaviDuck01/Exercicios-Python-RAD/blob/main/exercicios/27_do_08.py)
 
 ### Questão 1 – Criação e leitura de arquivos
 Instruções:<br>

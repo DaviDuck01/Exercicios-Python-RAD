@@ -1,4 +1,5 @@
 # Exercicios-Python-RAD
+-#Feito por Davi de Almeida Souza
 
 ## Sobre os exercícios de [27_do_08.py](https://github.com/DaviDuck01/Exercicios-Python-RAD/blob/main/exercicios/27_do_08.py)
 
